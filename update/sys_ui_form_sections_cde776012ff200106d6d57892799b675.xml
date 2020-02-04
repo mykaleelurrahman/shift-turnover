@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:28</sys_created_on>
+            <sys_created_on>2020-02-04 19:54:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c9e776012ff200106d6d57892799b678</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>5a2932812ff200106d6d57892799b619</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_454265_shiftturn_x_454265_shiftturn" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">cde776012ff200106d6d57892799b675</sys_ui_form>
-            <sys_ui_section caption="Security Advisory" display_value="Security Advisory" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">05e776012ff200106d6d57892799b675</sys_ui_section>
+            <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:28</sys_updated_on>
+            <sys_updated_on>2020-02-04 19:54:41</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_454265_shiftturn_x_454265_shiftturn</name>

@@ -7,6 +7,9 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="General Notes" max_length="100000" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Security Advisory" max_length="10000" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Important Notes" max_length="100000" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Major Minor Incidents" max_length="100000" name="u_string_4" type="string"/>
     </element>
 </database>

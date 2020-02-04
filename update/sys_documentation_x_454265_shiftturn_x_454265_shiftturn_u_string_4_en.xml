@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_4" label="Major Minor Incidents" language="en" table="x_454265_shiftturn_x_454265_shiftturn">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_4</element>
+            <help/>
+            <hint/>
+            <label>Major Minor Incidents</label>
+            <language>en</language>
+            <name>x_454265_shiftturn_x_454265_shiftturn</name>
+            <plural>Major Minor Incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-04 19:54:02</sys_created_on>
+            <sys_id>d62932812ff200106d6d57892799b631</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Major Minor Incidents</sys_name>
+            <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
+            <sys_update_name>sys_documentation_x_454265_shiftturn_x_454265_shiftturn_u_string_4_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-04 19:54:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
