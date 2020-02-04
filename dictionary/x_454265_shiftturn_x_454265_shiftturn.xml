@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Shift Turnover" max_length="40" name="x_454265_shiftturn_x_454265_shiftturn" type="collection">
+        <element choice="3" label="Shift" max_length="40" name="shift" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Day" value="Day Shift"/>
+                <element inactive_on_update="false" label="Night" value="Night Shift"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date/Time" mandatory="true" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Security Advisory" max_length="10000" name="u_string_2" type="string"/>
+    </element>
+</database>

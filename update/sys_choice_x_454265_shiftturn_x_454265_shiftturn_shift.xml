@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="shift" table="x_454265_shiftturn_x_454265_shiftturn" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day</label>
+            <language>en</language>
+            <name>x_454265_shiftturn_x_454265_shiftturn</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-04 19:41:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e556328d2fb200106d6d57892799b68c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-04 19:42:21</sys_updated_on>
+            <value>Day Shift</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>shift</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Night</label>
+            <language>en</language>
+            <name>x_454265_shiftturn_x_454265_shiftturn</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-04 19:42:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6596ba4d2fb200106d6d57892799b63d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-04 19:43:05</sys_updated_on>
+            <value>Night Shift</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>shift</element>
+            <name>x_454265_shiftturn_x_454265_shiftturn</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-04 19:41:41</sys_created_on>
+            <sys_id>2156328d2fb200106d6d57892799b68d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>shift</sys_name>
+            <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
+            <sys_update_name>sys_choice_x_454265_shiftturn_x_454265_shiftturn_shift</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-04 19:41:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
