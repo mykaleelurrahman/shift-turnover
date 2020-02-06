@@ -4,13 +4,13 @@
             <element>u_string_2</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:57:45</sys_created_on>
-            <sys_id>380ab2c12ff200106d6d57892799b602</sys_id>
+            <sys_created_on>2020-02-06 16:39:36</sys_created_on>
+            <sys_id>35df18352f7200106d6d57892799b6fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:57:45</sys_updated_on>
+            <sys_updated_on>2020-02-06 16:39:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_string_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:57:45</sys_created_on>
-            <sys_id>b80ab2c12ff200106d6d57892799b602</sys_id>
+            <sys_created_on>2020-02-06 16:39:36</sys_created_on>
+            <sys_id>f9df18352f7200106d6d57892799b6fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:57:45</sys_updated_on>
+            <sys_updated_on>2020-02-06 16:39:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_string_3</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:57:45</sys_created_on>
-            <sys_id>3c0ab2c12ff200106d6d57892799b602</sys_id>
+            <sys_created_on>2020-02-06 16:39:36</sys_created_on>
+            <sys_id>7ddf18352f7200106d6d57892799b6fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:57:45</sys_updated_on>
+            <sys_updated_on>2020-02-06 16:39:36</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,15 +46,29 @@
             <element>u_string_4</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:57:45</sys_created_on>
-            <sys_id>bc0ab2c12ff200106d6d57892799b602</sys_id>
+            <sys_created_on>2020-02-06 16:39:36</sys_created_on>
+            <sys_id>fddf18352f7200106d6d57892799b6fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:57:45</sys_updated_on>
+            <sys_updated_on>2020-02-06 16:39:36</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 16:39:36</sys_created_on>
+            <sys_id>71df18352f7200106d6d57892799b6fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Shift Turnover Information" display_value="Shift Turnover Information" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">1629fe412ff200106d6d57892799b60a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 16:39:36</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Shift Turnover Information</caption>

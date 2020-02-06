@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description>Queries if there are any open tickets</description>
+        <direct>false</direct>
+        <endpoint>x_454265_shiftturn_Open Incident .do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+ var="jvar_gr" object="true"
+   var gr = new GlideRecord("incident");
+   gr.addQuery("active", true);
+   gr.query();
+   gr;
+
+ 
+ test="${!jvar_gr.hasNext()}"
+   We did not find any active incidents.
+
+ test="${jvar_gr.next()}"
+   We found ${jvar_gr.getRowCount()} active incidents.
+</j:jelly>]]></html>
+        <name>Open Incident </name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 23:23:15</sys_created_on>
+        <sys_id>81576f052f7600106d6d57892799b67c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Incident </sys_name>
+        <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
+        <sys_update_name>sys_ui_page_81576f052f7600106d6d57892799b67c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 23:23:15</sys_updated_on>
+    </sys_ui_page>
+</record_update>

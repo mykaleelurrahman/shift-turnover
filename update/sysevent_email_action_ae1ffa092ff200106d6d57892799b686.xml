@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;Security Advisory: ${u_string_2}<strong><br /></strong></p>
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp; ${u_string_2}<strong><br /></strong></p>
 </td>
 </tr>
 </tbody>
@@ -89,7 +89,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject> Number: ${number}</subject>
+        <subject>${number} - ${shift}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -97,7 +97,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ae1ffa092ff200106d6d57892799b686</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Shift Turnover Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
@@ -105,7 +105,7 @@
         <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
         <sys_update_name>sysevent_email_action_ae1ffa092ff200106d6d57892799b686</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-04 21:11:26</sys_updated_on>
+        <sys_updated_on>2020-02-06 16:06:09</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
