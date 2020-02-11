@@ -35,32 +35,31 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"><img src="/sys_attachment.do?sys_id=abbff6c52ff200106d6d57892799b6bf" width="113" height="51" /></p>
-<table class="MsoTableGrid" style="width: 101.02%; border-collapse: collapse; border: none;" border="1" width="101%" cellspacing="0" cellpadding="0">
+        <message_html><![CDATA[<p style="line-height: 106%; margin: 0in 0in 8pt; font-size: 11pt; font-family: Calibri, sans-serif;"><img src="/sys_attachment.do?sys_id=70701d752ff200106d6d57892799b64d" width="113" height="51" /></p>
+<table class="MsoNormalTable" style="width: 100.0%; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 23.35pt;">
 <td style="width: 100.0%; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 23.35pt;" colspan="6" width="100%">
-<p style="text-align: center; line-height: 150%; margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: 'Times New Roman', serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 150%; font-family: Calibri, sans-serif;">CDW<span style="color: black;"> Cyber Security Operations Centre Shift Turnover</span></span></strong></p>
-<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center">&nbsp;</p>
+<p style="text-align: center; line-height: 150%; margin: 0in 0in 8pt; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 14.0pt; line-height: 150%;">CDW<span style="color: black;"> Cyber Security Operations Centre Shift Turnover</span></span></strong></p>
 </td>
 </tr>
 <tr>
-<td style="width: 9.46%; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="9%">
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">Date</p>
+<td style="width: 11.08%; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="11%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong>Date</strong></p>
 </td>
-<td style="width: 27.6%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="27%">
+<td style="width: 26.4%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="26%">
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;${u_glide_date_time_1}</p>
 </td>
-<td style="width: 10.48%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="10%">
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">Shift</p>
+<td style="width: 9.62%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="9%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong>Shift</strong></p>
 </td>
-<td style="width: 12.38%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="12%">
+<td style="width: 11.58%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="11%">
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;${shift}</p>
 </td>
-<td style="width: 10.48%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="10%">
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">Analysts</p>
+<td style="width: 13.48%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="13%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><strong>Analysts</strong></p>
 </td>
-<td style="width: 29.62%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="29%">
+<td style="width: 27.84%; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="27%">
 <p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>
 </td>
 </tr>
@@ -71,11 +70,62 @@
 </tr>
 <tr>
 <td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
-<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp; ${u_string_2}<strong><br /></strong></p>
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: black;">&nbsp; ${u_string_2}</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: black; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; color: white;">General Notes</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: black;">&nbsp; ${u_string_1}<br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: black; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; color: white;">Important Notes This Week</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: black;">&nbsp;${u_string_3}<br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: black; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; color: white;">Major/Minor Incidents Affecting SOC Services</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: black;">&nbsp; ${u_string_4}<br /></span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: black; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; color: white;">Tickets for Follow-up</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;${variables.macro.active}</p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: black; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; text-align: center; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;" align="center"><strong><span style="font-size: 16.0pt; color: white;">Tickets Opened</span></strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 100.0%; border: solid windowtext 1.0pt; border-top: none; background: white; padding: 0in 5.4pt 0in 5.4pt;" colspan="6" valign="top" width="100%">
+<p style="margin: 0in 0in 0.0001pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif;"><span style="color: black;">&nbsp; ${u_string_2}</span></p>
 </td>
 </tr>
 </tbody>
-</table>]]></message_html>
+</table>
+<p style="margin: 0in 0in 8pt; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;">&nbsp;</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Shift Turnover Email</name>
@@ -97,7 +147,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ae1ffa092ff200106d6d57892799b686</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Shift Turnover Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
@@ -105,7 +155,7 @@
         <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
         <sys_update_name>sysevent_email_action_ae1ffa092ff200106d6d57892799b686</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-06 16:06:09</sys_updated_on>
+        <sys_updated_on>2020-02-06 20:18:25</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

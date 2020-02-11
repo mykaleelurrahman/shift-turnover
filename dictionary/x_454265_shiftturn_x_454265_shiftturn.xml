@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Shift Turnover" max_length="40" name="x_454265_shiftturn_x_454265_shiftturn" sizeclass="4" type="collection">
-        <element choice="3" label="Shift" max_length="40" name="shift" type="choice">
+    <element extends="task" label="Shift Turnover" max_length="40" name="x_454265_shiftturn_x_454265_shiftturn" sizeclass="12" type="collection">
+        <element attributes="ref_contributions=open_incident_list" choice="3" label="Shift" max_length="40" name="shift" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Day" value="Day Shift"/>
                 <element inactive_on_update="false" label="Night" value="Night Shift"/>

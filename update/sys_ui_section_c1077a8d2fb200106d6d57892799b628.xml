@@ -4,83 +4,97 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>45e776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>1c7f09752ff200106d6d57892799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>9c7f09752ff200106d6d57892799b6de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>c5e776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>107f09752ff200106d6d57892799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>active</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>49e776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>907f09752ff200106d6d57892799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>c9e776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>147f09752ff200106d6d57892799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>shift</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>4de776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>947f09752ff200106d6d57892799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_time_1</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-02-04 19:48:29</sys_created_on>
-            <sys_id>cde776012ff200106d6d57892799b6b7</sys_id>
+            <sys_created_on>2020-02-06 20:07:34</sys_created_on>
+            <sys_id>187f09752ff200106d6d57892799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_454265_shiftturn_x_454265_shiftturn" sys_domain="global" view="Default view">c1077a8d2fb200106d6d57892799b628</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-02-04 19:48:29</sys_updated_on>
+            <sys_updated_on>2020-02-06 20:07:34</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

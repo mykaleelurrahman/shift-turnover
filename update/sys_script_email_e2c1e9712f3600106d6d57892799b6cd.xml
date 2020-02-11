@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>test</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(current, template, email, email_action, event) {
+	template.print('<p><font size="4" color="#999999" face="helvetica"><strong>');
+	template.print(gs.getMessage('Additional Details:'));
+	template.print('</strong></font></p>');
+	template.print('<font size="3" color="#999999" face="helvetica">');
+	var i18nCaller = gs.getMessage('Caller: {0}', '${caller_id}');
+	var i18nCagegory = gs.getMessage('Category: {0}', '${category}');
+	var i18nSeverity = gs.getMessage('Severity: {0}', '${severity}');
+	var i18nPriority = gs.getMessage('Priority: {0}', '${priority}');
+	template.print('<p>' + i18nCaller + '<br/>');
+	template.print('<p>' + i18nCagegory + '</p>');
+	template.print('<p>' + i18nSeverity + '</p>');
+	template.print('<p>' + i18nPriority + '</p>');
+	template.print('</font>');
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 21:27:59</sys_created_on>
+        <sys_id>e2c1e9712f3600106d6d57892799b6cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="ShiftTurnover-Dev" source="x_454265_shiftturn">391e62452fb200106d6d57892799b625</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ShiftTurnover-Dev">391e62452fb200106d6d57892799b625</sys_scope>
+        <sys_update_name>sys_script_email_e2c1e9712f3600106d6d57892799b6cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 21:27:59</sys_updated_on>
+    </sys_script_email>
+</record_update>
